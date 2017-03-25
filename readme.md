@@ -1,0 +1,1 @@
+A small demo of spring boot and spring security with JWT authentication. 
